@@ -75,7 +75,7 @@ def int_check(question):
 mode = "regular"
 rounds_played = 0
 
-rps_list = ["Rock", "Paper", "Scissors", "XXX"]
+rps_list = ["rock", "paper", "scissors", "xxx"]
 
 
 print("💎📃✂️Rock / Paper / Scissors Game !✂️📃💎")
